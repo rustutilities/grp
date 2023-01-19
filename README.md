@@ -1,2 +1,2 @@
 # grp
-Grep command in Rust
+grp is a grep like command build with Rust
