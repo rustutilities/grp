@@ -1,2 +1,2 @@
-# grp
-Grep command in Rust
+# srch
+Grep like command 
